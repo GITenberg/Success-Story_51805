@@ -1,0 +1,34 @@
+_repo: Success-Story_51805
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Wood, Wallace
+    alias: Wood, Wally
+    birthdate: 1927
+    deathdate: 1981
+    gutenberg_agent_id: '32276'
+    url: http://www.gutenberg.org/2009/agents/32276
+    wikipedia: http://en.wikipedia.org/wiki/Wally_Wood
+creator:
+  author:
+    agent_name: Goodale, Earl
+    gutenberg_agent_id: '46560'
+    url: http://www.gutenberg.org/2009/agents/46560
+description: ''
+gutenberg_bookshelf: Science Fiction
+gutenberg_issued: '2016-04-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51805'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Soldiers -- Fiction'
+- !lcsh 'Science fiction'
+- !lcsh 'Extraterrestrial beings -- Fiction'
+- GITenberg
+title: Success Story
+url: http://www.gutenberg.org/ebooks/51805
